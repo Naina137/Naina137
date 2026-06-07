@@ -39,6 +39,7 @@ Beyond technical skills, I value leadership, communication, and teamwork. I enjo
 - Design Thinking & Innovation
 🎯 Vision
 To become a software engineer, innovator, and leader who combines technology, creativity, and strategic thinking to build solutions that positively impact people's lives.
+
 "Driven by curiosity. Guided by purpose. Focused on creating impact."
 <!--
 **Naina137/Naina137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
